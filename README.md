@@ -1,1 +1,1 @@
-# Strock-Identification
+# Stroke Identification
